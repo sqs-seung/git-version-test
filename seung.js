@@ -3,9 +3,11 @@ class Car {
     this.number = number;
   }
   run() {
-    console.log('run!');
+    console.log('car');
+    console.log('run.......!');
   }
   stop() {
-    console.log('stop!');
+    console.log('car');
+    console.log('stop!.....!');
   }
 }
