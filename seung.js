@@ -5,4 +5,7 @@ class Car {
   run() {
     console.log('run!');
   }
+  stop() {
+    console.log('stop!');
+  }
 }
